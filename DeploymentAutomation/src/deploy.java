@@ -27,7 +27,7 @@ public class deploy {
 		// TODO Auto-generated method stub 
 		String [][] commands = {
 				{"1","Go to page","https://test.salesforce.com",""},
-				{"2","Set value","id=username","username"},
+				//{"2","Set value","id=username",""},
 				{"3","Set value","id=password","password"},
 				{"4","Click","id=Login",""},
 				//{"5","Go to page","/lightning/switcher?destination=classic",""},

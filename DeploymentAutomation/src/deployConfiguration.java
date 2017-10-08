@@ -46,7 +46,7 @@ public class deployConfiguration {
 		//driver = new FirefoxDriver();
 		jse = (JavascriptExecutor)driver;
 		actions = new Actions(driver);
-		commands = this.commands;
+		this.commands = commands;
 		processCommands();
 		
 	}
